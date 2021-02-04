@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App" style={{backgroundColor:'red'}} >
       <div>this is the blog
-            </div>
+      </div>
+      <a href="/">inicio</a>
     </div>
   );
 }
